@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+[Dd]esktop.ini
+
+# Linux
+*~
+
+# Editors
+.vscode/
+.idea/
