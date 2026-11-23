@@ -1,7 +1,6 @@
 ---
 name: eli5
 description: Explain Like I'm 5
-disable-model-invocation: true
 ---
 
 要求：
