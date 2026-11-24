@@ -18,4 +18,4 @@ npx skills add WBBB0730/skills --skill eli5
 
 | Skill | 说明 |
 | --- | --- |
-| [eli5](skills/eli5/SKILL.md) | 让回复改用简洁的大白话，只讲重点，需要决定的事列出选项并给推荐。用 `/eli5` 调用；不带其他内容时重讲上一条回复，之后的回复都照此要求 |
+| [eli5](skills/eli5/SKILL.md) | 让回复改用简洁的大白话，只讲重点，需要决定的事列出选项并给推荐。 |
